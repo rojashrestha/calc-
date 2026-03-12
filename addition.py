@@ -1,4 +1,3 @@
-a=10
-b=20
-sum=a+b
-print("the sum of a and b is:")
+def add(a,b):
+    print("sum of a and b:")
+    return a+b
